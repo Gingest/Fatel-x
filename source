@@ -1,1 +1,3 @@
-game:GetService("Players").LocalPlayer:Kick("Hi" ..Game.Players.LocalPlayer.Name.. "you have been kicked due to Fatel X being paid and not gonna be free anymore and will be a FE Script and please Join Fatel X: https://discord.gg/gahmC6vGu6")
+game:GetService("ReplicatedStorage").MainEvent:FireServer("OneMoreTime")
+setclipboard("https://discord.io/legacyx")
+game:GetService("Players").LocalPlayer:Kick("discord.io/legacyx")
